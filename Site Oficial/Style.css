@@ -1,0 +1,41 @@
+body{
+    background-color: #dedec1 ;
+    font: 16px Arial, Helvetica, sans-serif;
+    
+}
+#principal{
+    width:900px;
+    
+
+}
+#menu{
+    background-color: #c5c5b2;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+#main-content{
+    background: #e8e8e9;
+    padding: 10px;
+    text-align: justify;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-campanha{
+    border: 10px groove #c3c3ae;
+}
+
